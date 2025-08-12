@@ -31,3 +31,4 @@ C:\Users\User\source\repos\net_core_test\obj\Debug\net8.0\refint\net_core_test.d
 C:\Users\User\source\repos\net_core_test\obj\Debug\net8.0\net_core_test.pdb
 C:\Users\User\source\repos\net_core_test\obj\Debug\net8.0\net_core_test.genruntimeconfig.cache
 C:\Users\User\source\repos\net_core_test\obj\Debug\net8.0\ref\net_core_test.dll
+C:\Users\User\source\repos\net_core_test\obj\Debug\net8.0\net_core_test.sourcelink.json
